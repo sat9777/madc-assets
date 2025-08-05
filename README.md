@@ -16,7 +16,7 @@ Our mission is to create a transparent, secure, and inclusive digital currency t
 
 ## Official Links
 - 🌐 Website: [https://madc.io](https://madc.io)
-- 📄 Whitepaper: [Download Whitepaper (PDF)](MADC-Whitepaper.pdf)
+- 📄 Whitepaper: [MADC-Whitepaper.pdf](MADC-Whitepaper.pdf)
 - 💬 Telegram: [https://t.me/madc_officiel](https://t.me/madc_officiel)
 - 🐦 Twitter (X): [https://x.com/MADCOfficiel](https://x.com/MADCOfficiel)
 - 💼 LinkedIn: [https://www.linkedin.com/company/madcoin/](https://www.linkedin.com/company/madcoin/)
