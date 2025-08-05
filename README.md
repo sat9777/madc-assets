@@ -12,11 +12,11 @@ Our mission is to create a transparent, secure, and inclusive digital currency t
 - **Blockchain:** Ethereum
 - **Standard:** ERC‑20
 - **Total Supply:** 100,000,000 MADC
-- **Contract Address:** `0x...` *(Replace with official address)*
+- **Contract Address:** `0x3a01a309b9c02b9d9265eA8626c6c0DdA6D984c5` *(Replace with official address)*
 
 ## Official Links
 - 🌐 Website: [https://madc.io](https://madc.io)
-- 📄 Whitepaper: [MADC-Whitepaper.pdf](MADC-Whitepaper.pdf)
+- 📄 Whitepaper: [Download Whitepaper (PDF)](MADC_Whitepaper.pdf)
 - 💬 Telegram: [https://t.me/madc_officiel](https://t.me/madc_officiel)
 - 🐦 Twitter (X): [https://x.com/MADCOfficiel](https://x.com/MADCOfficiel)
 - 💼 LinkedIn: [https://www.linkedin.com/company/madcoin/](https://www.linkedin.com/company/madcoin/)
